@@ -1,5 +1,7 @@
 ### IntelliJ IDEA ###
-out/
+/out/
+/report_card.txt
+/.idea/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
