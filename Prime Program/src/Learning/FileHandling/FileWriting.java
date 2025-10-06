@@ -27,7 +27,7 @@ public class FileWriting {
         for (int i = 0; i < n; i++) {
             System.out.println("Enter the student +"+i+1+"'s details:-");
             System.out.println("Name:- ");
-            sc.nextLine(); // consume leftover newline , sometimes sc.nextLine() skips inpot if user after nextInt() or nextFloet()
+            sc.nextLine(); // consume leftover newline , sometimes sc.nextLine() skips input if used after nextInt() or nextFloat()
             String name  = sc.nextLine();
             System.out.println("Roll Number:- ");
             int rollNo = sc.nextInt();

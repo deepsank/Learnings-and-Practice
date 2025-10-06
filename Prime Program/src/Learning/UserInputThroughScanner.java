@@ -29,4 +29,5 @@ public class UserInputThroughScanner {
 
         sc.close();
     }
+
 }
