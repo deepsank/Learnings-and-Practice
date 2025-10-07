@@ -3,6 +3,11 @@ package Learning.DSA.sorting;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/*
+ * TC --- O(n log(n)) in all Cases
+ * SC --- O(1)
+ *
+ * */
 public class HeapSort {
 
 
